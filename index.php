@@ -275,7 +275,12 @@ and open the template in the editor.
   <!-- Portfolio Modal 1 -->
   <div class="portfolio-modal mfp-hide" id="portfolio-modal-1">
     <div class="portfolio-modal-dialog bg-white">
-      <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+      <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#"><h1>Personal</h1>
+			<p>My name is Eva.
+			<br></br>I am 19 years old
+			<br></br>I live in Grange Co.Cork</p>
+		
+		<hr></hr>
         <i class="fa fa-3x fa-times"></i>
       </a>
       <div class="container text-center">
@@ -284,7 +289,7 @@ and open the template in the editor.
             <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
             <hr class="star-dark mb-5">
             <img class="img-fluid mb-5" src="img/portfolio/cabin.png" alt="">
-            <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+            <p class="mb-5"></p>
             <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
               <i class="fa fa-close"></i>
               Close Project</a>
@@ -306,7 +311,9 @@ and open the template in the editor.
             <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
             <hr class="star-dark mb-5">
             <img class="img-fluid mb-5" src="img/portfolio/cake.png" alt="">
-            <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+            <p class="mb-5"><h1>Work Experience</h1>
+			<p>I have worked a bartender for Pairc Ui Chaoimh for two years.</p>
+			</p>
             <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
               <i class="fa fa-close"></i>
               Close Project</a>
@@ -328,7 +335,66 @@ and open the template in the editor.
             <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
             <hr class="star-dark mb-5">
             <img class="img-fluid mb-5" src="img/portfolio/circus.png" alt="">
-            <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+            <p class="mb-5"><h1>Work Experience</h1>
+			<p>I have worked a bartender for Pairc Ui Chaoimh for two years.</p>
+			
+		<hr></hr>
+		
+		<h1>Education</h1>
+		<h4>Secondary School</h4>
+		<h5>Leaving Cert Results</h5>
+		<table>
+			<tr>
+				<th>Subject</th>
+				<th>Grade</th>
+			</tr>
+			<tr>
+				<td>Maths</td>
+				<td>H5</td>
+			</tr>
+			<tr>
+				<td>English</td>
+				<td>H3</td>
+			</tr>
+			<tr>
+				<td>Irish</td>
+				<td>O2</TD>
+			</tr>
+			<tr>
+				<td>Biology</td>
+				<td>H1</td>
+			</tr>
+			<tr>
+				<td>Chemistry</td>
+				<td>H3</td>
+			</tr>
+			<tr>
+				<td>Business</td>
+				<td>H2</td>
+			</tr>
+			<tr>
+				<td>German</td>
+				<td>H5</td>
+			</tr>
+		</table>
+				
+			
+			
+	
+		
+		
+		
+		
+		
+	
+		<p>I attended Christ King Secondary School</p>
+		<h4>University</h4>
+		<p>I am currently a first year student in UCC</p>
+			<!--This is an image-->
+			<img src="ucc-crest.jpg" alt="Ucc Campus" >
+			
+			<!--This is a hyperlink-->
+			<a href="https://www.ucc.ie/">Link to UCC Website </a></p>
             <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
               <i class="fa fa-close"></i>
               Close Project</a>
@@ -350,7 +416,12 @@ and open the template in the editor.
             <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
             <hr class="star-dark mb-5">
             <img class="img-fluid mb-5" src="img/portfolio/game.png" alt="">
-            <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+            <p class="mb-5">
+		<h1>Skills and Hobbies</h1>
+		<h4>Skills</h4>
+		<p>I have great communication and organizational skills</p>
+		<h4>Hobbies</h4>
+		<p>I enjoy playing hockey</p></p>
             <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
               <i class="fa fa-close"></i>
               Close Project</a>
