@@ -118,6 +118,7 @@ $_SESSION['txtTotal'] = $totalValue;
                     
             </script>
     </body>
+    <a href="index.html" class="button" >Go Back</a>
     </html>
 
 
